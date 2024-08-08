@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Akksaa.
 - 👀 I’m interested in Advanced Programming and Technologies.
-- 🌱 I’m currently learning Typescript along with my Studies.
-- 😄 Pronouns: she/her.
+- 🌱 I’m currently learning Next.js along with my Studies.
+- 😄 I have skills in HTML, CSS, JavaScript and Typescript.
 
 
 <!---
